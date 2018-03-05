@@ -1,2 +1,2 @@
-# Competitive-Programming
+Competitive-Programming
 Editing the readme file
